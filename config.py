@@ -1,2 +1,2 @@
-TOKEN = '5038839944:AAF_fwE95pcYDsJ_BVCz47ebzz1GwAP5VWs'
+TOKEN = 'x'
 APP_NAME = 'bottg0'
